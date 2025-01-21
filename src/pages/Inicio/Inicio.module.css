@@ -1,0 +1,10 @@
+.cabecalho {
+    position: relative;
+    z-index: 1;
+}
+.container {
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
